@@ -1,0 +1,5 @@
+﻿{
+  "Data": {
+    "MasteredTraxConnection": "Data Source=sql15dev;Initial Catalog=MasteredTraxDB;User ID=sa;Password=C3l5ius;"
+  }
+}
